@@ -4,18 +4,18 @@ User can share his Mental-Health Problemsand in return bot will give the solutio
 We also have interactive sessions,Stress Monitoring, Meditation.<br><br>
 We have used Streamlit for frontend and langchain for NLP processing.<br><br>
 The Main libraries used is : 
-langchain
-torch
-accelerate
-#bitsandbytes
-transformers
-sentence_transformers
-streamlit
-streamlit_chat
-faiss-cpu
-altair
-tiktoken
-huggingface-hub
+langchain,
+torch,
+accelerate,
+#bitsandbytes,
+transformers,
+sentence_transformers,
+streamlit,
+streamlit_chat,
+faiss-cpu,
+altair,
+tiktoken,
+huggingface-hub.
 
 
 
